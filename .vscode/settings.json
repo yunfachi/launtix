@@ -1,0 +1,12 @@
+{
+    "nixEnvSelector.nixFile": "${workspaceRoot}/shell.nix",
+    "files.exclude": {
+        ".vscode": true,
+        ".gitignore": true,
+        "shell.nix": true,
+        "launtix/__pycache__": true,
+        "examples/__pycache__": true,
+        "launtix/types/__pycache__": true,
+        "launtix/utilities/__pycache__": true
+    },
+}
