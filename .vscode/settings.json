@@ -7,6 +7,7 @@
         "launtix/__pycache__": true,
         "examples/__pycache__": true,
         "launtix/types/__pycache__": true,
-        "launtix/utilities/__pycache__": true
+        "launtix/utilities/__pycache__": true,
+        "launtix/api/__pycache__": true
     },
 }

@@ -17,6 +17,7 @@ from .foo import *
 from .client import Client
 
 from . import (
+    api,
     utilities,
     types,
 )
